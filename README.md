@@ -7,5 +7,5 @@ This repository contains multiple machine learning classification projects.
    - Algorithm: K-Nearest Neighbors (KNN)
    
 2. **[Diabetes prediction classification](Diabetes_prediction)**
-   - predicts whether a person will have diabetes based on various physical factors.
+   - predicts whether a female will have diabetes based on various physical factors.
    - Algorith: Logistic Regression
